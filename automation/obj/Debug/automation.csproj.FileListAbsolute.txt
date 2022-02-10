@@ -1,0 +1,13 @@
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\automation.exe.config
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\automation.exe
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\automation.pdb
+C:\Users\levid\Documents\GitHub\automation\automation\obj\Debug\automation.csproj.AssemblyReference.cache
+C:\Users\levid\Documents\GitHub\automation\automation\obj\Debug\automation.csproj.CoreCompileInputs.cache
+C:\Users\levid\Documents\GitHub\automation\automation\obj\Debug\automation.exe
+C:\Users\levid\Documents\GitHub\automation\automation\obj\Debug\automation.pdb
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\WebDriver.dll
+C:\Users\levid\Documents\GitHub\automation\automation\obj\Debug\automation.csproj.CopyComplete
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\Telerik.JustMock.dll
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\Telerik.JustMock.xml
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\AWSSDK.dll
+C:\Users\levid\Documents\GitHub\automation\automation\bin\Debug\AWSSDK.pdb
